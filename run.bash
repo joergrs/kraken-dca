@@ -6,3 +6,5 @@ echo "Executing in `pwd`"
 source ./venv/bin/activate
 
 python __main__.py
+
+deactivate
